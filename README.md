@@ -182,18 +182,18 @@ export class AppModule { }
 ## Deployar en Azure ## 
 
 1.  Crear AppService
-![alt text][]
+![alt text][appservice]
 
-[]: https://raw.githubusercontent.com/feranto/azureOpenSourceDayMeanHol/master/imagenes/CORS.PNG ""
+[appservice]: https://raw.githubusercontent.com/feranto/azureOpenSourceDayMeanHol/master/imagenes/CORS.PNG ""
 2.  Crear AppService Plan
-![alt text][]
+![alt text][appservice2]
 
-[]: https://raw.githubusercontent.com/feranto/azureOpenSourceDayMeanHol/master/imagenes/CORS.PNG ""
+[appservice2]: https://raw.githubusercontent.com/feranto/azureOpenSourceDayMeanHol/master/imagenes/CORS.PNG ""
 3.  Deployar Codigo
-![alt text][]
+![alt text][appservice3]
 
-[]: https://raw.githubusercontent.com/feranto/azureOpenSourceDayMeanHol/master/imagenes/CORS.PNG ""
+[appservice3]: https://raw.githubusercontent.com/feranto/azureOpenSourceDayMeanHol/master/imagenes/CORS.PNG ""
 4.  Probar aplicación
-![alt text][]
+![alt text][appservice4]
 
-[]: https://raw.githubusercontent.com/feranto/azureOpenSourceDayMeanHol/master/imagenes/CORS.PNG ""
+[appservice4]: https://raw.githubusercontent.com/feranto/azureOpenSourceDayMeanHol/master/imagenes/CORS.PNG ""
